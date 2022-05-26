@@ -1,7 +1,7 @@
 {
 	"stub": {
 		"version": "3.0",
-		"force_update": false
+		"force_update": true
 	},
 	"plugin": {
 		"version": "1.0",
