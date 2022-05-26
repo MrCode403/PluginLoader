@@ -4,8 +4,8 @@
 		"force_update": false
 	},
 	"plugin": {
-		"version": "5.0",
-		"name": "Gaurav hutiya", //sorry bro ye plugin ka hai stub ka toh upper hai
+		"version": "1.0",
+		"name": "plugin name",
 		"url": "https://github.com/MrCode403/PluginLoader/blob/main/release/app-debug.apk?raw=true"
 	}
 }
